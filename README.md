@@ -8,12 +8,11 @@ Du ska kunna skilja mellan `class` och `object`, förstå vilket object `self` s
 
 ## Kom igång
 
-1. Gör den ograderade avstämningen i `diagnostic.md` tillsammans med klassen.
-2. Öppna lärarens publika template på GitHub, välj **Use this template → Create a new repository** och döp ditt repo till exempelvis `oop-tv-ditt-namn`. Välj **Private** för ditt eget repo.
+1. Öppna lärarens publika template på GitHub, välj **Use this template → Create a new repository** och döp ditt repo till exempelvis `oop-tv-ditt-namn`. Välj **Private** för ditt eget repo.
   <img width="700" alt="05-use-template" src="https://github.com/user-attachments/assets/b5188170-c327-47a5-af6e-1c7f42591b7d" />
 
-3. Klona **ditt eget repo** och öppna det i VS Code.
-4. Förutsäg vad programmet skriver ut. Kör `python student/procedural_tv.py` (på Windows eventuellt `py`, på vissa datorer `python3`). Jämför med din förutsägelse.
+2. Klona **ditt eget repo** och öppna det i VS Code.
+3. Förutsäg vad programmet skriver ut. Kör `python student/procedural_tv.py` (på Windows eventuellt `py`, på vissa datorer `python3`). Jämför med din förutsägelse.
 
    
 
